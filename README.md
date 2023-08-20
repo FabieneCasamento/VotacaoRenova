@@ -26,7 +26,7 @@ No Arquivo perfil_eleitorado_2020.csv foram eliminados da analise também datas 
 'HH_GERACAO',
 'ANO_ELEICAO',
 
-
+# análises dos arquivos em python
 
 O arquivo Mapa_votacao_porcidade_final1.ipynb indica os candidatos mais votados para vereador e prefeito. 
 
@@ -40,3 +40,9 @@ Perfil_prefeitodeSP_final2.ipynb
 
 Análise por perfil do eleitorado para o voto do vereador mais votado na cidade de SP.
 Perfil_vereador_final3.ipynb
+
+
+# apresentação
+
+O programa que gerou o arquivo (em pdf) com uma pequena apresentação dos dados é o apresentacao_fabiene.ipynb.
+
