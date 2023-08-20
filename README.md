@@ -32,8 +32,8 @@ O arquivo Mapa_votacao_porcidade_final1.ipynb indica os candidatos mais votados 
 
 Resultados:Mapas com os dados dos prefeitos mais votados em cada município do estado de São Paulo.
 
-mapavoto_municipioSP_Prefeito.html 
-mapavoto_municipioSP_vereador.html
+mapavoto_municipioSP_Prefeito.html;\n
+mapavoto_municipioSP_vereador.html.
 
 Análise por perfil do eleitorado para o voto do primeiro turno para prefeito na cidade de SP.
 Perfil_prefeitodeSP_final2.ipynb       
