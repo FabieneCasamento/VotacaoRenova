@@ -31,6 +31,7 @@ No Arquivo perfil_eleitorado_2020.csv foram eliminados da analise também datas 
 O arquivo Mapa_votacao_porcidade_final1.ipynb indica os candidatos mais votados para vereador e prefeito. 
 
 Resultados:Mapas com os dados dos prefeitos mais votados em cada município do estado de São Paulo.
+
 mapavoto_municipioSP_Prefeito.html 
 mapavoto_municipioSP_vereador.html
 
